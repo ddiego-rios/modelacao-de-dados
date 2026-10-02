@@ -1,0 +1,4 @@
+# Ficheiros de cópia e temporários do MySQL Workbench
+*.bak
+*.tmp
+
